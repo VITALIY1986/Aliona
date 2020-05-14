@@ -1,4 +1,4 @@
-import full01 from '../../../assets/images/fulls/01.jpg'
+import full01 from '../../../assets/images/fulls/giphy.gif'
 import full02 from '../../../assets/images/fulls/02.jpg'
 import full03 from '../../../assets/images/fulls/03.jpg'
 import full04 from '../../../assets/images/fulls/04.jpg'
